@@ -117,4 +117,4 @@
             src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" width="200"></a>
 </div> -->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api username=Jayakrishna20&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jayakrishna20&theme=radical)
