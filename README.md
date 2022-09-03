@@ -11,9 +11,13 @@
         <a href="" target="_blank"><img alt="LinkedIn"
                 src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
         <a href="" target="_blank"><img alt="Gmail"
-                src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /></a>        
-<!--         <a href=""><img alt="Telegram"
-                src="https://img.shields.io/badge/telegram-%232CA5E0.svg?&style=for-the-badge&logo=telegram&logoColor=white"></a> -->
+                src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
+        <a href="" target="_blank"><img alt="Medium"
+                src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+        <a href=""><img alt="Dribbble"
+                src="https://img.shields.io/badge/dribble-%23EA4C89.svg?&style=for-the-badge&logo=dribbble&logoColor=white"></a>
+        <a href=""><img alt="Telegram"
+                src="https://img.shields.io/badge/telegram-%232CA5E0.svg?&style=for-the-badge&logo=telegram&logoColor=white"></a>
     </div>
 </div>
 
@@ -67,22 +71,21 @@
                 width="48" />&nbsp;&nbsp;&nbsp
         </p>
     </div>
-<!--     <div>
-        <
-        ![GitHub Stats](https://github-readme-stats.vercel.app/api username=Jayakrishna20&theme=radical)h2><img align="center" width="35"
+    <div>
+        <h2><img align="center" width="35"
                 src="https://emojis.slackmojis.com/emojis/images/1531847048/4223/blob-100.gif?1531847048" />Featured
             Repositories</h2>
         <p align="center">
             <a href="https://github.com/Jayakrishna20/useItagain">
-                <img src="https://github-readme-stats.vercel.app/api/pin/?username=aromalanil&repo=whatsend&theme=dark" /></a>
-            <a href="https://github.com/aromalanil/get-ascii-image">
-                <img src="https://github-readme-stats.vercel.app/api/pin/?username=aromalanil&repo=get-ascii-image&theme=dark" /></a>
-            <a href="https://github.com/aromalanil/markitdown">
+                <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jayakrishna20&repo=useItagain&theme=dark" /></a>
+            <a href="https://github.com/Jayakrishna20/mousike-app">
+                <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jayakrishna20&repo=mousike-app&theme=dark" /></a>
+            <a href="https://github.com/Jayakrishna20/netflix-clone-flutter">
                 <img
-                    src="https://github-readme-stats.vercel.app/api/pin/?username=aromalanil&repo=markitdown&theme=dark" /></a>
-            <a href="https://github.com/aromalanil/unchat_frontend">
+                    src="https://github-readme-stats.vercel.app/api/pin/?username=Jayakrishna20&repo=netflix-clone-flutter&theme=dark" /></a>
+            <a href="https://github.com/Jayakrishna20/shopping-cart-node-js">
                 <img
-                    src="https://github-readme-stats.vercel.app/api/pin/?username=aromalanil&repo=unchat_frontend&theme=dark" /></a>
+                    src="https://github-readme-stats.vercel.app/api/pin/?username=Jayakrishna20&repo=shopping-cart-node-js&theme=dark" /></a>
         </p>
     </div>
     <br />
@@ -98,10 +101,10 @@
             </summary>
             <br />
             <p align="center">
-                <img height="160" alt="Aromal's Github Stats"
-                    src="https://github-readme-stats.vercel.app/api?username=aromalanil&show_icons=true&hide_border=true&theme=dark&count_private=true" />
-                <img alt="Aromal's Github Stats" height="160"
-                    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aromalanil&hide=assembly&layout=compact&theme=dark" />
+                <img height="160" alt="Jayakrishnan's Github Stats"
+                    src="https://github-readme-stats.vercel.app/api?username=Jayakrishna20&show_icons=true&hide_border=true&theme=dark&count_private=true" />
+                <img alt="Jayakrishnan's Github Stats" height="160"
+                    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayakrishna20&hide=assembly&layout=compact&theme=dark" />
             </p>
         </details>
     </div>
@@ -115,6 +118,4 @@
         width="130" /><br />
     <a href="" target="_blank"><img
             src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" width="200"></a>
-</div> -->
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jayakrishna20&theme=radical)
+</div>
