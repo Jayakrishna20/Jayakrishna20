@@ -11,9 +11,7 @@
         <a href="" target="_blank"><img alt="LinkedIn"
                 src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
         <a href="" target="_blank"><img alt="Gmail"
-                src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
-        <a href="" target="_blank"><img alt="Medium"
-                src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+                src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /></a>        
         <a href=""><img alt="Dribbble"
                 src="https://img.shields.io/badge/dribble-%23EA4C89.svg?&style=for-the-badge&logo=dribbble&logoColor=white"></a>
         <a href=""><img alt="Telegram"
