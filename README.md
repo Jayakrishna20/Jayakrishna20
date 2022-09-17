@@ -10,7 +10,7 @@
                 src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
         <a href="https://www.linkedin.com/in/jayakrishnan20" target="_blank"><img alt="LinkedIn"
                 src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-        <a href="" target="_blank"><img alt="Gmail"
+        <a href="mailto:jayakrishnans2041@gmail.com" target="_blank"><img alt="Gmail"
                 src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /></a>                
         <a href="https://telegram.me/jayakrishna20"><img alt="Telegram"
                 src="https://img.shields.io/badge/telegram-%232CA5E0.svg?&style=for-the-badge&logo=telegram&logoColor=white"></a>
