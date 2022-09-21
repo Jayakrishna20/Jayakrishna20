@@ -75,7 +75,7 @@
             <a href="https://github.com/Jayakrishna20/useItagain">
                 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jayakrishna20&repo=useItagain&theme=dark" /></a>
             <a href="https://github.com/Jayakrishna20/mousike-app">
-                <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jayakrishna20&repo=mousike-app&theme=dark" /></a>
+                <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jayakrishna20&repo=snake-game-ai-pytorch&theme=dark" /></a>
             <a href="https://github.com/Jayakrishna20/netflix-clone-flutter">
                 <img
                     src="https://github-readme-stats.vercel.app/api/pin/?username=Jayakrishna20&repo=netflix-clone-flutter&theme=dark" /></a>
@@ -109,9 +109,10 @@
 
 <hr />
 </br>
-<div align="center">
+<!-- <div align="center">
     <img src="https://komarev.com/ghpvc/?username=aromalanil&color=brightgreen&style=flat-square&label=PROFILE+VIEWS +"
         width="130" /><br />
     <a href="" target="_blank"><img
             src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" width="200"></a>
 </div>
+ -->
