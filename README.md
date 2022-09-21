@@ -74,7 +74,7 @@
         <p align="center">
             <a href="https://github.com/Jayakrishna20/useItagain">
                 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jayakrishna20&repo=useItagain&theme=dark" /></a>
-            <a href="https://github.com/Jayakrishna20/mousike-app">
+            <a href="https://github.com/Jayakrishna20/snake-game-ai-pytorch">
                 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jayakrishna20&repo=snake-game-ai-pytorch&theme=dark" /></a>
             <a href="https://github.com/Jayakrishna20/netflix-clone-flutter">
                 <img
