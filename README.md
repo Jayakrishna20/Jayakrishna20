@@ -23,15 +23,13 @@
                 src="https://emojis.slackmojis.com/emojis/images/1584726375/8272/blob-cool.gif?1584726375" width="28" />
             What I'm up to</h2>
         <ul>
-            <li> 👨🏻‍💻 I'm currently working on my Personal Blog ✍🏻</li>
+            <li> 👨🏻‍💻 I'm currently working open sources ✍🏻</li>
             <li> 💬 Ask me about React <img align="center"
                     src="https://emojis.slackmojis.com/emojis/images/1473950148/1161/react.png?1473950148"
-                    width="16" />, Javascript <img align="center"
-                    src="https://emojis.slackmojis.com/emojis/images/1450441296/151/javascript.png?1450441296"
-                    width="16" /></li>
-            <li> 🎓 I'm currently learning Flutter <img align="center"
+                    width="16" />, Flutter <img align="center"
                     src="https://emojis.slackmojis.com/emojis/images/1533423362/4417/flutter.png?1533423362"
                     width="16" /></li>
+            <li> 🎓 Expanding knowledge on Various Fields </li>            
             <li>📫 How to reach me: <img align="center"
                     src="https://emojis.slackmojis.com/emojis/images/1450319444/38/gmail.png?1450319444" width="17" />
                 <a href="mailto:jayakrishnans2041@gmail.com" target="_blank">jayakrishnan2041@gmail.com</a></li>
@@ -109,10 +107,3 @@
 
 <hr />
 </br>
-<!-- <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=aromalanil&color=brightgreen&style=flat-square&label=PROFILE+VIEWS +"
-        width="130" /><br />
-    <a href="" target="_blank"><img
-            src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" width="200"></a>
-</div>
- -->
