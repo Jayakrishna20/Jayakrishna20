@@ -59,7 +59,8 @@
             <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/java/java_64x64.png" width="48"
                 alt="Java" />&nbsp;&nbsp;&nbsp
             <img src="https://avatars1.githubusercontent.com/u/1609975?s=200&v=4" width="48"
-                alt="Dart" />&nbsp;&nbsp;&nbsp            
+                alt="Dart" />&nbsp;&nbsp;&nbsp           
+            <img src="https://cdn.cdnlogo.com/logos/c/27/c.svg" width="48" alt="Csharp" />&nbsp;&nbsp;&nbsp
             <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VS Code" width="50" />&nbsp;&nbsp;&nbsp
             <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="Git"
                 width="48" />&nbsp;&nbsp;&nbsp
