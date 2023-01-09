@@ -65,7 +65,7 @@
             <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="Git"
                 width="48" />&nbsp;&nbsp;&nbsp
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/322px-Go_Logo_Blue.svg.png" alt="Go"
-                width="50" />&nbsp;&nbsp;&nbsp
+                width="55" />&nbsp;&nbsp;&nbsp
         </p>
     </div>
     <div>
